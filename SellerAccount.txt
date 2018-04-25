@@ -1,0 +1,3 @@
+
+seller001@gmail.com	seller name	123123	01234567890	No jalan kedah 	856.0
+seller002@gmail.com	sellername too	123123	0123456789	Jalan istana	471.0

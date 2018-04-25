@@ -1,0 +1,8 @@
+1	laptop	asus laptop 2015 model	1000.0	Courier Service	seller001@gmail.com
+3	bar chair	old ikea bar chair 	320.0	Courier Service	seller001@gmail.com
+4	dining table	old wood dining table	500.0	Pickup	seller002@gmail.com
+5	old desktop	old 2010 desktop 	300.0	Pickup	seller002@gmail.com
+6	old item	old table for sale	80.0	Courier Service	seller001@gmail.com
+8	old chair	old ikea chair	120.0	Courier Service	seller001@gmail.com
+9	old cabinet	old 2010 wood cabinet 	250.0	Pickup	seller001@gmail.com
+10	old computer	old 2010 hp computer 	300.0	Pickup	seller002@gmail.com

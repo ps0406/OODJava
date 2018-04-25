@@ -1,0 +1,2 @@
+2	table	old ikea white table	80.0	Pickup	seller001@gmail.com	buyer001@gmail.com	4.0
+7	old laptop	old laptop for sale	1000.0	Courier Service	seller001@gmail.com	buyer001@gmail.com	100.0
